@@ -2,7 +2,7 @@ import Image from 'next/image'
 
 export default function Home() {
     return (
-        <main className="flex flex-col scale-90 items-center justify-center min-h-screen lg:scale-100 relative">
+        <main className="flex flex-col scale-90 items-center justify-center min-h-screen lg:scale-100 relative text-white">
             <div className="absolute inset-0 z-0 filter blur-3xl opacity-60">
                 <Image
                     src="/necrosskull.png"
