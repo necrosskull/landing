@@ -30,7 +30,7 @@ export default function Home() {
                     <a href="https://github.com/necrosskull" target="_blank">github</a>
                   </h1>
                   <h1 className="font-bold text-center transform transition duration-300 hover:text-purple-300">
-                      <a href="https://github.com/necrosskull" target="_blank">telegram</a>
+                      <a href="https://t.me/necrosskull" target="_blank">telegram</a>
                   </h1>
             </div>
       </div>
